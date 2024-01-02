@@ -30,7 +30,6 @@ const AuthProvider = ({ children }) => {
 
     const logout = () => {
         setUser(null);
-        useNavigate = ('/login');
     };
 
 
