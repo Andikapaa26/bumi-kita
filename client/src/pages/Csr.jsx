@@ -1,8 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import icon from "../assets/icon.svg";
 import Myfooter from '../components/Footer';
-import aboutImg from "../assets/mobile-login.png";
 import Maecenas from '../assets/maecenas.png'
 
 // motion
