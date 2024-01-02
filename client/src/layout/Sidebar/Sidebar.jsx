@@ -15,7 +15,6 @@ const Sidebar = () => {
 
     const handleLogout = () => {
         logout();
-        useNavigate = ('/login');// Redirect atau navigasi ke halaman login jika diperlukan
     };
 
 
