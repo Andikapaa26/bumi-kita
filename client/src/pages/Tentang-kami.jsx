@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
-import icon from "../assets/icon.png";
+import icon from "../assets/logo.png";
 import Myfooter from '../components/Footer';
 
 const Tentangkami = () => {
