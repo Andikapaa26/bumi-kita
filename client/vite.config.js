@@ -11,5 +11,10 @@ export default defineConfig({
   },
   build: {
     chunkSizeWarningLimit: 16000000000000,
+    rollupOptions: {
+      plugins: [
+        svgr(), // Enable SVG handling
+      ],
+    },
   },
 })
