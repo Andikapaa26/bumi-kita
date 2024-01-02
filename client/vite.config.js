@@ -1,5 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import svgr from '@svgr/webpack';
+import path from 'path'; // tambahkan baris ini
 
 // https://vitejs.dev/config/
 export default defineConfig({
